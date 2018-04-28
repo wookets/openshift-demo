@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/wookets/openshift-demo#readme",
   "dependencies": {
-    "express": "4.15.3"
+    "express": "4.16.3"
   }
 }
